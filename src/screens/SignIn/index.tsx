@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Image, Alert, ActivityIndicator } from 'react-native';
+import {  View,  Text,  Image, Alert, ActivityIndicator } from 'react-native';
 
 import { useAuth } from '../../hooks/auth';
 
